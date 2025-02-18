@@ -6,6 +6,5 @@ It copies to the clipboard the avgerage apartment price (avg between city center
 # How to install
 
 Add "Tampermonkey" extension to your browser ("User Scripts" for Safari).\
-Create a new script in the extension dashboard.\
-Go to the "Settings" tab and find "Updates" section.\
-Add a link to that repo to the "Update URL" input and click "check for updates".
+Open extension and do the "Utilities" tab.\
+Insert "https://raw.githubusercontent.com/f2mars/NumbeoAptAutoCopy/main/script.js" to the "Import from URL" imput and click "Install"
