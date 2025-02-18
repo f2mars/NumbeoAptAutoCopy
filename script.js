@@ -7,6 +7,8 @@
 // @match        https://www.numbeo.com/cost-of-living/in/*
 // @grant        none
 // @run-at       document-end
+// @updateURL    https://raw.githubusercontent.com/f2mars/NumbeoAptAutoCopy/main/script.js
+// @downloadURL  https://raw.githubusercontent.com/f2mars/NumbeoAptAutoCopy/main/script.js
 // ==/UserScript==
 
 (function () {
